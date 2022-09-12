@@ -1,0 +1,1 @@
+python C:\Users\grebe\Desktop\tensorflow-yolov4-tflite-master1\detect_video.py --weights D:\ytqhjyrf\tf --size 416 --model yolov4 --video D:\ytqhjyrf\5.mp4 --output D:\ytqhjyrf\r5.mp4
